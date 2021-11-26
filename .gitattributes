@@ -1,0 +1,7 @@
+Standing[[:space:]]Idle[[:space:]]Looking[[:space:]]Ver.[[:space:]]2.fbx filter=lfs diff=lfs merge=lfs -text
+ArtifactDB filter=lfs diff=lfs merge=lfs -text
+Drunk[[:space:]]Run[[:space:]]Forward.fbx filter=lfs diff=lfs merge=lfs -text
+Zombie[[:space:]]Attack.fbx filter=lfs diff=lfs merge=lfs -text
+Sad[[:space:]]Walk.fbx filter=lfs diff=lfs merge=lfs -text
+sharedassets0.assets.resS filter=lfs diff=lfs merge=lfs -text
+sharedassets1.assets.resS filter=lfs diff=lfs merge=lfs -text
